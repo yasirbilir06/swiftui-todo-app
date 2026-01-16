@@ -1,4 +1,4 @@
-## SwiftUI ToDo App
+# SwiftUI ToDo App
 
 A simple ToDo application built with SwiftUI while learning and practicing
 core SwiftUI concepts. The main focus of this project is understanding state
@@ -7,10 +7,10 @@ management, navigation flow, and clean UI structure.
 ---
 
 ## Features
-- Add, list, and manage tasks
+- Add and manage tasks
 - SwiftUI native navigation
 - List and detail views
-- Clean and simple UI
+- Clean and minimal UI
 
 ---
 
@@ -18,20 +18,20 @@ management, navigation flow, and clean UI structure.
 - `@State` and `@Binding`
 - NavigationStack & NavigationLink
 - List & Detail views
-- Component-based UI structure
+- Component-based SwiftUI architecture
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="260">
-  <img src="screenshots/2.png" width="260">
+  <img src="./screenshots/1.png" width="260">
+  <img src="./screenshots/2.png" width="260">
 </p>
 
 <p align="center">
-  <img src="screenshots/3.png" width="260">
-  <img src="screenshots/4.png" width="260">
+  <img src="./screenshots/3.png" width="260">
+  <img src="./screenshots/4.png" width="260">
 </p>
 
 ---
